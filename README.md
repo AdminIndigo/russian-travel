@@ -33,4 +33,4 @@ CSS:
 Используется шрифт Inter . Размеры, начертания и цвет шрифта как в макете.
 
 
-https://github.com/AlievZainula/russian-travel
+https://github.com/AdminIndigo/russian-travel
